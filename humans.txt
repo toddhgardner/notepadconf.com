@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Todd H Gardner jokester @toddhgardner
+
+# THANKS
+
+  http://braziljs.github.io/conf-boilerplate/
+
